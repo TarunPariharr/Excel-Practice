@@ -1,0 +1,27 @@
+﻿Dada College,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Name,Gender,Age,Class,House,Unit Test 1,Unit Test 2,Final Test,Total,Average,If cond,Count
+Lalita,F,17,10,Vayu,70,90,92,252,84,True,22
+Student2,F,17,10,Vayu,70,90,92,252,84,True,
+Gopi,F,16,10,Agni,88,92,96,276,92,True,COUNTIF
+Student5,F,16,10,Jal,81,80,87,248,82.67,True,11
+Sudevi,F,16,10,Jal,81,80,87,248,82.67,True,
+Visakha,F,16,10,Bhoomi,70,87,85,242,80.67,True,COUNTIFs
+Abhimanyu,M,16,10,Bhoomi,84,79,81,244,81.33,True,3
+Hari,M,16,10,Bhoomi,82,81,80,243,81,True,
+RNM,M,16,10,Agni,86,81,77,244,81.33,True,Sum
+Keshav,M,15,9,Agni,87,89,96,272,90.67,True,1819
+Student1,M,15,9,Agni,87,89,95,271,90.33,True,
+Student8,F,15,8,Vayu,81,90,95,266,88.67,True,Sumif
+Varun,M,15,9,Vayu,87,89,95,271,90.33,True,1539
+Champa,F,15,8,Jal,81,78,88,247,82.33,True,
+Vrinda,F,14,8,Agni,91,96,98,285,95,False,Sumifs
+Indu,F,14,8,Vayu,90,86,89,265,88.33,False,s
+Gopal,M,14,8,Bhoomi,70,75,79,224,74.67,False,
+Madhav,M,12,7,Jal,86,92,89,267,89,False,
+Student4,F,12,7,Jal,86,92,89,267,89,False,
+Sam,M,11,6,Agni,91,81,94,266,88.67,False,
+Vidya,F,11,6,Vayu,88,90,92,270,90,False,
+Arjun,M,11,5,Vayu,82,83,91,256,85.33,False,
+Total,,,,,1819,1890,1967,5676,,,
